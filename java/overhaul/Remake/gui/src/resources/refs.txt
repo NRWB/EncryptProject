@@ -1,0 +1,92 @@
+Links visited throughout project development:
+(shared here, as to document potential source/influence and to provide helpful references to others)
+
+1. http://stackoverflow.com/questions/7255592/get-file-directory-size-using-java-7-new-io
+
+Java SE Application Design With MVC
+2. http://www.oracle.com/technetwork/articles/javase/index-142890.html
+
+Java Logging Overview
+3. http://docs.oracle.com/javase/6/docs/technotes/guides/logging/overview.html
+
+Java Interface ListCellRenderer<E>
+4. http://docs.oracle.com/javase/8/docs/api/javax/swing/ListCellRenderer.html
+
+How to Use Lists
+5. http://docs.oracle.com/javase/tutorial/uiswing/components/list.html#mutable
+
+How do I update a line already existing in JTextPane?
+6. http://stackoverflow.com/questions/26963231/how-do-i-update-a-line-already-existing-in-jtextpane
+
+
+7.
+8.
+9.
+10.
+
+
+java cipher links
+https://gist.github.com/dweymouth/11089238
+
+http://stackoverflow.com/questions/17330362/decrypting-with-des-throws-an-invalidkeyexception-parameters-missing-when-usi
+https://docs.oracle.com/cd/E28280_01/security.1111/e10037/migrate11g.htm#SDTRG173
+http://www.oracle.com/technetwork/database/options/advanced-security/advanced-security-wp-12c-1896139.pdf?ssSourceSiteId=ocomau
+http://www.oracle.com/technetwork/database/options/advanced-security/advanced-security-ds-12c-1898873.pdf?ssSourceSiteId=ocomau
+http://www.oracle.com/au/products/database/options/advanced-security/overview/index.html#ct02-Download
+https://docs.oracle.com/javase/7/docs/api/javax/crypto/Cipher.html
+
+
+
+java crypt
+https://docs.oracle.com/javase/jp/8/technotes/guides/lang/Base64Sample.java
+
+http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
+
+https://docs.oracle.com/javase/8/docs/api/java/util/Base64.Encoder.html
+
+encryption iv = init vector
+
+https://github.com/fukata/AES-256-CBC-Example
+
+http://stackoverflow.com/questions/5343689/java-reading-a-file-into-an-arraylist
+
+http://stackoverflow.com/questions/16056135/how-to-use-openssl-to-encrypt-decrypt-files
+
+https://www.openssl.org/docs/apps/openssl.html
+
+http://stackoverflow.com/questions/6321353/securely-passing-password-to-openssl-via-stdin
+
+http://askubuntu.com/questions/60712/how-do-i-quickly-encrypt-a-file-with-aes
+
+http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu
+
+
+
+
+
+
+
+
+http://docs.oracle.com/javase/tutorial/uiswing/components/button.html
+
+http://www.dell.com/us/business/p/precision-desktops
+
+http://www.dell.com/learn/us/en/04/campaigns/dell-precision-optimizer?c=us&l=en&s=bsd&cs=04
+
+http://www-03.ibm.com/systems/x/options/memory/ddr3/
+
+http://stackoverflow.com/questions/7625762/setting-divider-location-on-a-jsplitpane-doesnt-work
+
+
+
+
+
+
+http://www.cs.berkeley.edu/~jonah/bc/org/bouncycastle/crypto/BufferedBlockCipher.html
+
+http://www.tutorialspoint.com/java/java_encapsulation.htm
+
+http://stackoverflow.com/questions/1925104/easy-way-to-store-restore-encryption-key-for-decrypting-string-in-java
+
+http://stackoverflow.com/questions/501302/can-i-write-or-modify-data-on-an-rfid-tag
+
